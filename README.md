@@ -5,6 +5,7 @@ NCIFD (National Culture Instruction-Following Dataset) is a national culture fin
 Our dataset is stored in JSON format. Each data contains instructions (instruct), supplementary information (input) and answer results (ouput).
 
 The specific examples are as follows:
+   
     {
         "instruction": "藏族酥油花灯节的起源是什么时候和由谁创办的?",
         "input": "",

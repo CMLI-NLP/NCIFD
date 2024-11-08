@@ -35,3 +35,7 @@ At the same time, the Wenxinyiyan 4.0 large language model is used to extract th
 ## Download
 
 [Data Set](https://github.com/letsgoLakers/NCIFD/tree/main/NCFID%E6%95%B0%E6%8D%AE%E9%9B%86) 
+
+## Disclaimer
+
+This dataset/model is for academic research purposes only. Prohibited for any commercial or unethical purposes.
